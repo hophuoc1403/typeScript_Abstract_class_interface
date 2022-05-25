@@ -1,0 +1,2 @@
+# typeScript_Abstract_class_interface
+phuocdepzai
